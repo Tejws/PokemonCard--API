@@ -55,3 +55,6 @@ To run the app locally, use the following command:
 bash
 Copy code
 npm start
+
+Screenshots :
+![PokimonCard_1](https://github.com/user-attachments/assets/ad09003e-9f17-40cf-92df-b6b81dd79319)
