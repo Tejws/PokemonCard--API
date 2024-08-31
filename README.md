@@ -58,3 +58,7 @@ npm start
 
 Screenshots :
 ![PokimonCard_1](https://github.com/user-attachments/assets/ad09003e-9f17-40cf-92df-b6b81dd79319)
+
+![PokimonCard_2](https://github.com/user-attachments/assets/10323d27-e915-4e06-b1cc-54e6abdea758)
+
+![PokimonCard_3](https://github.com/user-attachments/assets/3b611f10-0883-4c4a-927d-557695d7647f)
